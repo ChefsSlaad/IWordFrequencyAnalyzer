@@ -35,7 +35,7 @@ class iWordFrequencyAnalyzer:
 
     def CalculateHighestFrequency(self, input_text: str) -> int:
         """
-        Calculate the highest returns the highest frequency in the input text.
+        Return the highest frequency in the input text.
         (several words might actually have this frequency)
 
         :param input_text: the text to analyze
@@ -52,7 +52,7 @@ class iWordFrequencyAnalyzer:
 
     def CalculateFrequencyForWord (self, input_text: str, word: str) -> int:
         """
-        return the frequency for the word in input_text
+        Return the frequency for the word in input_text
 
         :param input_text: the text to analyze
         :type input_text: str
@@ -67,7 +67,7 @@ class iWordFrequencyAnalyzer:
 
     def CalculateMostFrequentNWords (self, input_text: str, n: int ) -> List[str]:
         """
-        find all the words that occur exactly a certain number of times in the input text
+        Find all the words that occur exactly a certain number of times in the input text
 
         :param input_text: the text to analyze
         :type input_text: str

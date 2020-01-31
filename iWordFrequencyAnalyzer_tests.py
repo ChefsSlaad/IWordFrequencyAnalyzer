@@ -43,8 +43,7 @@ class WordFrequencyAnalyzer_tests(unittest.TestCase):
                         Presently my soul grew stronger; hesitating then no longer,
                     "Sir," said I, "or Madam, truly your forgiveness I implore;
                         But the fact is I was napping, and so gently you came rapping,
-                        And so faintSyntaxError: invalid character in identifier
-ly you came tapping, tapping at my chamber door,
+                        And so faintly you came tapping, tapping at my chamber door,
                     That I scarce was sure I heard you"-here I opened wide the door;-
                                 Darkness there and nothing more.
 
