@@ -11,7 +11,7 @@ class iWordFrequencyAnalyzer:
 
     in this context, a word is a set of characters a z and A Z. Words are case
     insensitive. This, this and THiS are treated as being equal
-    input text contains 0 or more words, separated by separator characters. by
+    input text contains 1 or more words, separated by separator characters. by
     default, the string.punctuation and string.whitespace constants will be used
     as separators
     while processing this input text, if a character is not recognized as either
